@@ -1,0 +1,11 @@
+## 豆包 API 配置示例文件
+## 复制此文件为 local.properties 并填入你的真实配置
+
+# 豆包 API Base URL（根据你的控制台显示的地址填写）
+# 示例：https://ark.cn-beijing.volces.com/api/v3
+doubao.api.base.url=https://ark.cn-beijing.volces.com/api/v3
+
+# 豆包 API Key（从火山引擎控制台获取）
+# 示例：sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+doubao.api.key=DOUBAO_API_KEY
+
